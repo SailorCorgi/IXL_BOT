@@ -1,7 +1,4 @@
-# install the latest driver https://sites.google.com/chromium.org/driver/ and put it in c drive → program files x86
-# install python 3 (duh)
-# install selenium by doing pip install Selenium in cmd
-# Path = where chromedriver located should be program files x86
+
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
