@@ -11,11 +11,11 @@ from selenium.webdriver.chrome.service import Service
 
 driver = webdriver.Chrome(service=Service())
 
-#change to ixl url
-driver.get("https://www.ixl.com/math/grade-7/find-the-number-of-outcomes-word-problems")
+#change to ixl url of your choice 
+driver.get("ixl url here")
 driver.implicitly_wait(30)
-question = driver.find_element(By.CSS_SELECTOR, "main#practice-page-container section > section > div > div > div").get_attribute("textContent")
-# go to second word on page and use extension to change url
+question = driver.find_element(By.CSS_SELECTOR, "go to second word on page and use extension to copy css path and paste it here and delet this text").get_attribute("textContent")
+# go to second word on page and use extension to copy css path and paste it 
 # https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg/related
 print(question)
 #new tab and switch
