@@ -9,3 +9,5 @@ English Ixl's are harder to get answers due to the way I've designed it. But mat
     install the latest driver https://sites.google.com/chromium.org/driver/ and put it in c drive → program files x86 
     then install python 3 (duh)                
     also install selenium by doing pip install Selenium in cmd
+# status 
+taking a break will get back to it when i feel like it
