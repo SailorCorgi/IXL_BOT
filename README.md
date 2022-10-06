@@ -10,4 +10,4 @@ English Ixl's are harder to get answers due to the way I've designed it. But mat
     then install python 3 (duh)                
     also install selenium by doing pip install Selenium in cmd
 # status 
-taking a break will get back to it when i feel like it
+taking a break will get back to it when i feel like it its currently running in to a lot oof problems along the way. 
